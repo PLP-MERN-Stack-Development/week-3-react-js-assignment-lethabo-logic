@@ -17,7 +17,7 @@ Navigate into the project folder:
 cd react-tailwind-app
 
 Install dependencies:
-npm install
+```npm install
 
 Run the app:
 npm run dev
@@ -26,7 +26,7 @@ npm run dev
 #### 🖼️ Screenshots
 ```markdown
 ### Screenshots
-
+(screenshot.png) 
 #### Light Mode:
 ![Light Mode](./screenshots/light-mode.png)
 
