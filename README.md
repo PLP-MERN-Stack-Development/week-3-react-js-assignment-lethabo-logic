@@ -3,7 +3,7 @@
 This is a simple task management app built using React and Tailwind CSS. Users can add, toggle, delete, and filter tasks. It also supports dark mode and stores tasks in local storage.
 Live Demo
 ### Live Site
-[🔗 View deployed app here http://localhost:5173/] 
+[🔗 View deployed app here] [http://localhost:5173/] 
 
 
  Setup Instructions
